@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://derekotelett.github.io/P4_final/sitemap.xml
