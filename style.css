@@ -775,7 +775,10 @@ h4{
 
 .tc-white {
     color: #F3976C!important;
+}
+.dark-bckgrd{
     background-color: rgba(0,0,0,.1);
+    border-radius: 20px;
 }
 
 .btn-atomic-tangerine {
